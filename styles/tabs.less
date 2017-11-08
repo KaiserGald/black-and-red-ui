@@ -47,7 +47,7 @@
       color: @text-color-subtle;
 
       &:hover {
-        color: @text-color-warning;
+        color: @text-color-selected;
       }
     }
 
@@ -83,7 +83,7 @@
   .tab.active {
     z-index: 1;
     line-height: @tab-height - 2px;
-    color: @text-color;
+    color: @text-color-selected;
 
     .title{
       position: relative;
@@ -95,7 +95,7 @@
       color: @text-color;
 
       &:hover {
-          color: @text-color-warning;
+          color: @text-color-selected;
       }
     }
 
@@ -107,7 +107,7 @@
   }
 
   .tab:hover {
-    color: @text-color;
+    color: @tab-hover;
   }
 
   .placeholder {

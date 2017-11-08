@@ -1,25 +1,12 @@
 # Black theme
 
-Minimal black UI theme for Atom.
+Minimal black and red UI theme for Atom.
 
-The darker alternative to my [white](https://atom.io/packages/white-ui) theme.
+This is a fork of [black](https://atom.io/packages/black-ui) theme.
 
-![](https://raw.githubusercontent.com/williamtguerra/black-ui/master/screenshot.png)
+![](https://raw.githubusercontent.com/KaiserGald/black-and-red-ui/master/screenshort.png)
 
 * No rounded corners
 * No bevels
 * No gradients
 * No shadows
-
-## Install
-
-From the command line:
-
-```bash
-$ apm install black-ui
-```
-
-Alternatively, open Atom Preferences, select Themes > Search for `black`,
-then Install.
-
-Activate the theme by selecting the Themes section of Preferences.

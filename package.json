@@ -1,9 +1,9 @@
 {
-  "name": "black-ui",
+  "name": "black-and-red-ui",
   "theme": "ui",
-  "version": "0.3.4",
-  "description": "Minimal black UI theme",
-  "repository": "https://github.com/williamtguerra/black-ui",
+  "version": "0.0.1",
+  "description": "Minimal black and redUI theme",
+  "repository": "",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
