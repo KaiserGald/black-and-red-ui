@@ -3,7 +3,7 @@
   "theme": "ui",
   "version": "0.0.1",
   "description": "Minimal black and redUI theme",
-  "repository": "",
+  "repository": "https://github.com/KaiserGald/black-and-red-ui",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
